@@ -2,12 +2,14 @@
 
 # 📊 Advanced Microsoft Excel
 
-![Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VBA Badge](https://img.shields.io/badge/VBA_Automation-0078D7?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Power Query Badge](https://img.shields.io/badge/Power_Query-2D8C3C?style=for-the-badge&logo=microsoft&logoColor=white)
-![Data Analytics Badge](https://img.shields.io/badge/Data_Analytics-FFB000?style=for-the-badge&logo=python&logoColor=black)
-![Dashboard Badge](https://img.shields.io/badge/Interactive_Dashboards-1D6F42?style=for-the-badge)
-![AI Badge](https://img.shields.io/badge/AI_Powered_Analytics-6C63FF?style=for-the-badge&logo=ai&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel Copilot](https://img.shields.io/badge/Excel_Copilot-A020F0?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge&logo=microsoft&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA_Scripting-0078D7?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge&logo=python&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-F59E0B?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FF6B6B?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-4CAF50?style=for-the-badge)
 
 ---
 
@@ -49,28 +51,12 @@ Through hands-on projects, I’ve learned to turn raw data into actionable insig
 
 ---
 
-## 🧩 Tools I Use
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge&logo=microsoft&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-0078D7?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-F59E0B?style=for-the-badge)
-
----
-
 ## 🏆 Highlights
 
 ✨ Advanced-level proficiency in **Excel, Power Query & VBA**  
 📊 Expertise in **data analysis, cleaning, and visualization**  
 ⚙️ Ability to **automate workflows** and improve productivity  
 📈 Skilled in **building interactive dashboards** for business insights  
-
----
-
-## 📬 Connect with Me
-
-👤 **Sarthak Raj**  
-💼 *Frontend Developer | Data Analytics Enthusiast*  
 
 ---
 
