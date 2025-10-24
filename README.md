@@ -1,12 +1,13 @@
 # Data-Using-Excel
 
-# 📊 Advanced Microsoft Excel Mastery
+# 📊 Advanced Microsoft Excel
 
 ![Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![VBA Badge](https://img.shields.io/badge/VBA_Automation-0078D7?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Power Query Badge](https://img.shields.io/badge/Power_Query-2D8C3C?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Data Analytics Badge](https://img.shields.io/badge/Data_Analytics-FFB000?style=for-the-badge&logo=python&logoColor=black)
 ![Dashboard Badge](https://img.shields.io/badge/Interactive_Dashboards-1D6F42?style=for-the-badge)
+![AI Badge](https://img.shields.io/badge/AI_Powered_Analytics-6C63FF?style=for-the-badge&logo=ai&logoColor=white)
 
 ---
 
